@@ -1,0 +1,4 @@
+micronaut:
+  application:
+    name: grpcClient
+coherence.session.default.type: grpc
