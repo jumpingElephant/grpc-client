@@ -30,12 +30,6 @@
 
 - [Micronaut JAX-RS support documentation](https://micronaut-projects.github.io/micronaut-jaxrs/latest/guide/index.html)
 
-## Feature coherence documentation
-
-- [Micronaut Coherence documentation](https://micronaut-projects.github.io/micronaut-coherence/latest/guide/)
-
-- [https://coherence.java.net/](https://coherence.java.net/)
-
 ## Feature jackson-xml documentation
 
 - [Micronaut Jackson XML serialization/deserialization documentation](https://micronaut-projects.github.io/micronaut-jackson-xml/latest/guide/index.html)
